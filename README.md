@@ -47,7 +47,7 @@ O frontend é implementado utilizando **Next.js** e oferece uma interface intera
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/pdf-genius.git
+   git clone https://github.com/gustacoding/pdf-genius.git
    cd pdf-genius
 
    ```
