@@ -1,8 +1,4 @@
-const nextConfig = {
-  output: "export",
-  distDir: "out",
-  reactStrictMode: true,
-  swcMinify: true,
-};
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
 
 export default nextConfig;
