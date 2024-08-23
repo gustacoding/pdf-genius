@@ -128,7 +128,7 @@ O frontend é implementado utilizando **Next.js** e oferece uma interface intera
 
 ## Testes na Interface Web
 
-- **Acesso**: Acesse [http://localhost:3000](http://localhost:3000) no seu navegador.
+- **Acesso**: Acesse [http://localhost:3001](http://localhost:3001) no seu navegador.
 - **Upload de PDF**: Faça upload de um documento PDF.
 - **Envio de Pergunta**: Digite uma pergunta sobre o conteúdo do PDF e clique em "Enviar".
 - **Visualização de Respostas**: As respostas serão exibidas no chat, e o histórico de interações será mantido.
