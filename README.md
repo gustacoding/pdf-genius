@@ -90,7 +90,7 @@ O frontend é implementado utilizando **Next.js** e oferece uma interface intera
    npm run dev
    ```
 
-   A aplicação estará disponível em [http://localhost:3000](http://localhost:3000).
+   A aplicação estará disponível em [http://localhost:3001](http://localhost:3001).
 
 ## Exemplos de Chamadas à API
 
