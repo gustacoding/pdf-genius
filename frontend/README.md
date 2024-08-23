@@ -31,7 +31,7 @@ Este é o frontend do PDF Genius, uma aplicação React construída com Next.js.
 
 4. **Acesse a aplicação:**
 
-   Abra `http://localhost:3000` no seu navegador.
+   Abra `http://localhost:3001` no seu navegador.
 
 ## Estrutura do Código
 
